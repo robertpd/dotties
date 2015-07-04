@@ -25,6 +25,7 @@ alias rspec="bundle exec rspec"
 alias grep="GREP_COLOR='1;31' grep --color=always"
 alias updatedb="locate.updatedb"
 alias vlc="/Applications/VLC.app/Contents/MacOS/VLC"
+alias tf="terraform"
 
 # speed up git tab completion
 __git_files () { 

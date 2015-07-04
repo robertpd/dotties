@@ -36,5 +36,4 @@ set background=dark
 
 export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
 export PATH=$PATH:/Users/rob/npm/bin
-export PATH=$PATH:/Users/rob/src/terraform
 set mouse=nicr

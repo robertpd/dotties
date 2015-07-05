@@ -38,4 +38,5 @@ export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
 export PATH=$PATH:/Users/rob/npm/bin
 export PATH=$PATH:/usr/local/bin/terraform
 export EDITOR=vim
+export $(cat ~/.atlas | xargs)
 set mouse=nicr
